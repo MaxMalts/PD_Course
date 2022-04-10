@@ -1,0 +1,6 @@
+**cmake-build-debug**
+*.ipynb
+*.o
+**build**
+
+server_login.txt
